@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #e11364;
+   
+}
+
+header{
+    background-color: #bc105c;
+    border-left: 3px solid white;
+    border-right: 3px solid white;
+    color: white;
+    margin: 30px;
+    padding: 10px;
+    text-align:center;
+}
+
+section{
+    border-radius: 5px;
+    color: white;
+    background-color: #bc105c;
+    margin: 10px;
+    padding: 3px;
+}
+
+.cards{
+    background-color: white;
+    border-radius: 5px;
+    color: #bc105c;
+    margin: 35px;
+    text-align: right;
+    padding: 5px;
+
+}
