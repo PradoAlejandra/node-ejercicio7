@@ -38,8 +38,8 @@ section h2{
     border-radius: 5px;
     color: #bc105c;
     margin-top: 35px;
-    text-align: right;
     padding: 5px;
+    text-align: right;
     width:100%;
 }
 
@@ -48,6 +48,14 @@ section h2{
     margin: 15px;
 }
 
+.cards img{
+    width: 100%;
+}
+
 footer{
     background-color: #e96093;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
 }
